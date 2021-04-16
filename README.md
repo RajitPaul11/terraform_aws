@@ -1,5 +1,5 @@
-<h3>Configure AWS on Base OS with IAM User Creds with proper permissions attached - aws configure</h3>
-<h3>Initialize Terraform - terraform init</h3>
-<h3>Validate the Terraform Code - terraform validate</h3>
-<h3>Apply the Terraform Code - terraform apply</h3>
-<h3>Destroy the Infrstructure - terraform destroy</h3>
+<h3>Configure AWS on Base OS with IAM User Creds with proper permissions attached - <i>aws configure</i></h3>
+<h3>Initialize Terraform - <i>terraform init</i></h3>
+<h3>Validate the Terraform Code - <i>terraform validate</i></h3>
+<h3>Apply the Terraform Code - <i>terraform apply</i></h3>
+<h3>Destroy the Infrstructure - <i>terraform destroy</i></h3>
