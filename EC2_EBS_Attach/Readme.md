@@ -9,4 +9,9 @@ A security group acts as a virtual firewall for your EC2 instances to control in
 <h3>AWS EBS</h3>
 Amazon Elastic Block Store (EBS) is an easy to use, high-performance, block-storage service designed for use with Amazon Elastic Compute Cloud (EC2) for both throughput and transaction intensive workloads at any scale. A broad range of workloads, such as relational and non-relational databases, enterprise applications, containerized applications, big data analytics engines, file systems, and media workflows are widely deployed on Amazon EBS.
 <i>[ source-aws.amazon.com ]</i>
-
+<br>
+<br>
+<img src="image1.png" >
+<br>
+<br>
+<img src="image2.png" >
