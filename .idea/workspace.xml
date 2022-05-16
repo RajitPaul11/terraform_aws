@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89bb6270-2d38-4e4b-a9c2-81bbafb5cbf9" name="Changes" comment="RDS_Postgres_Instance" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24O0T0uiTydogaJHYkcOMiVUiN0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89bb6270-2d38-4e4b-a9c2-81bbafb5cbf9" name="Changes" comment="" />
+      <created>1643486332468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643486332468</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Provider Alias">
+      <created>1643740986916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643740986916</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Provider Alias">
+      <created>1643888872148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643888872148</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Terraform Variable Precedence">
+      <created>1644300111819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644300111819</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Readme added">
+      <created>1644301359798</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644301359798</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Variable Types in Terrraform">
+      <created>1644302641921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644302641921</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Variable Types in Terraform">
+      <created>1644302651921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644302651921</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Output Variables Terraform">
+      <created>1644394077488</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644394077488</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Resource Attribute &amp; Depends on">
+      <created>1644486006449</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644486006449</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Resource Targetting">
+      <created>1644488119837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644488119837</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Resource Targetting">
+      <created>1644581948958</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644581948958</updated>
+    </task>
+    <task id="LOCAL-00011" summary="RDS_Postgres_Instance">
+      <created>1644649658397</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1644649658397</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="c7bf544e-a600-4538-81ac-cf585616b144">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Provider Alias" />
+    <MESSAGE value="Terraform Variable Precedence" />
+    <MESSAGE value="Readme added" />
+    <MESSAGE value="Variable Types in Terrraform" />
+    <MESSAGE value="Variable Types in Terraform" />
+    <MESSAGE value="Output Variables Terraform" />
+    <MESSAGE value="Resource Attribute &amp; Depends on" />
+    <MESSAGE value="Resource Targetting" />
+    <MESSAGE value="RDS_Postgres_Instance" />
+    <option name="LAST_COMMIT_MESSAGE" value="RDS_Postgres_Instance" />
+  </component>
+</project>
